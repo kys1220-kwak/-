@@ -1,0 +1,6 @@
+{
+  "name": "수능 국어·영어 독해 & 메타인지 AI 코칭",
+  "description": "수능 국어/영어 지문 논리 구조화, 선지 패러프레이징 근거 매칭, 구문 청킹 타이머, 재진술 역추적 및 메타인지 오답 분석 학습 코칭 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
